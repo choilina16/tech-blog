@@ -5,7 +5,7 @@ Build a CMS-style blog site similar to a Wordpress site, where developers can pu
 - Follow the MVC paradigm in its architectural structure
 - Use Handlebars.js 
 - Sequelize
-- Express-session npm package 
+- Express-session npm package for authentication 
 
 ## Acceptance Criteria
 
